@@ -4,7 +4,7 @@
 from grpc.beta import implementations
 
 # Import python modules generated from proto files
-import mgd_service_pb2
+import management_service_pb2
 import authentication_service_pb2
 
 # IMPORTANT: Following are the dummy parameters that will be used for testing
